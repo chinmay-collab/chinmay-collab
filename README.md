@@ -14,9 +14,9 @@
 
 
 <a href="https://github.com/chinmayjai" target="_blank">
-    <img align="center" src="https://img.icons8.com/ios-filled/50/000000/github.png" height="30" width="40" />
+    <img align="center" src="https://img.icons8.com/ios-filled/50/000000/github.png" height="50" width="40" />
 </a>
-<a href="https://icons8.com/icon/12599/github" target="_blank">GitHub Icon</a>
+<a href="https://icons8.com/icon/12599/github" target="_blank"></a>
 
 
 
