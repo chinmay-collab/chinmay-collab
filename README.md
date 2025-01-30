@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Chinmay Jain</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h1 align="center">⚡ Chinmay Jain – Passionate Developer & Open Source Enthusiast</h1>
+<h3 align="center">🛠️ Fork, Clone, Contribute, Repeat!</h3>
 
 - 📫 How to reach me **chinmayjain6484@gmail.com**
 
